@@ -1,0 +1,16 @@
+#Maha {
+    background-color: #3f0e40;
+    color: white;
+    visibility: visible;
+    width: 300px;
+}
+li {
+    color: white;
+}
+h3 {
+    color: white;
+}
+main container {
+    display: flex;
+
+}
